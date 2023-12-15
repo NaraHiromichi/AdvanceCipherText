@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prompt-radio": "^1.2.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
